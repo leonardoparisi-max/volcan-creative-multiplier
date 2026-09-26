@@ -1,0 +1,28 @@
+/node_modules
+/.next
+/out
+/build
+*.tsbuildinfo
+next-env.d.ts
+
+# Runtime data — never commit media or model
+/.cache
+/output
+/input/*/*
+!/input/*/.gitkeep
+/models/*.bin
+
+# metadados pessoais de teste — regenerados sozinhos ao escanear input/
+/components.csv
+/connections.json
+
+# notas internas de desenvolvimento — não fazem parte da entrega pública
+/HANDOFF-SONNET.md
+/REVIEW.md
+
+.DS_Store
+npm-debug.log*
+
+# clipes sintéticos de teste — regenerar com scripts/make-samples.sh
+/samples/**/*.mp4
+/samples/**/*.png
