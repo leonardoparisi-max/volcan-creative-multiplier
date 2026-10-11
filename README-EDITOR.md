@@ -15,6 +15,14 @@ navegador.
 - Precisa de internet só nessa primeira instalação; depois disso a ferramenta
   roda 100% offline no seu computador — nenhum vídeo seu sai da sua máquina.
 
+## Antes de abrir: baixe a ferramenta
+
+Na página do [projeto](https://github.com/leonardoparisi-max/volcan-creative-multiplier),
+clique em **Code → Download ZIP**. Descompacte o ZIP e abra a pasta criada.
+Dentro dela, dê duplo-clique em **`Abrir Creative Multiplier.command`**.
+Na primeira vez, o macOS pode pedir confirmação para abrir o arquivo baixado.
+Depois siga as instruções na tela; a instalação das dependências pode levar alguns minutos.
+
 ## 1. Onde colocar os clipes
 
 Dentro da pasta `input/` existem três subpastas:
